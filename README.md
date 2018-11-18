@@ -9,3 +9,6 @@ This will be a change that conflicts whatever is on the remote side.
 This was edited locally.
 
 This file is just a readme file
+
+## Repository Purpose
+The purpose of this is to show on how to use the Git and Github together.
